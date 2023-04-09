@@ -4,14 +4,21 @@
 
 <h2>How It Works</h2>
 <p>The program generates a workout consisting of 5 exercises, one for each body part. The exercises are chosen randomly from a list of options for each muscle group. The predetermined ranges for each exercise are as follows:</p>
+<ul>
+    <li>5 sets x 5 reps</li>
+    <li>4 sets x 6-8 reps</li>
+    <li>3 sets x 8-12 reps</li>
+    <li>3 sets x 15-20 reps</li>
+</ul>
+
 <h4>Example</h4>
 <ul>
-    <li>Chest: 5 sets x 5 reps</li>
-    <li>Back: 4 sets x 6-8 reps</li>
-    <li>Shoulders: 3 sets x 8-12 reps</li>
-    <li>Biceps: 3 sets x 15-20 reps</li>
-    <li>Triceps: 3 sets x 15-20 reps</li>
-    <li>Legs: 4 sets x 6-8 reps</li>
+    <li>Exercise one: dumbell flyes - 3 sets x 15-20 reps</li>
+    <li>Exercise two: dumbell rows - 4 sets x 6-8 reps.</li>
+    <li>Exercise three: shoulder press - 3 sets x 8-12 reps.</li>
+    <li>Exercise four: behind the back cable curls - 5 sets x 5 reps.</li>
+    <li>Exercise five: dips - 3 sets x 15-20 reps.</li>
+    <li>Exercise six: lunges - 4 sets x 6-8 reps.</li>
 </ul>
 
 <h2>Getting Started</h2>
