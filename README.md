@@ -3,7 +3,7 @@
 <p>This JavaScript program generates a full body workout by randomly selecting one exercise from each of the six major muscle groups: chest, back, shoulders, biceps, triceps, and legs. Each exercise is accompanied by a predetermined range of sets and reps.</p<>
 
 <h2>How It Works</h2>
-<p>The program generates a workout consisting of 5 exercises, one for each body part. The exercises are chosen randomly from a list of options for each muscle group. The predetermined ranges for each exercise are as follows:</p>
+<p>The program generates a workout consisting of 6 exercises, one for each body part. The exercises are chosen randomly from a list of options for each muscle group. The predetermined ranges for each exercise are as follows:</p>
 <ul>
     <li>5 sets x 5 reps</li>
     <li>4 sets x 6-8 reps</li>
